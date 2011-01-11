@@ -37,9 +37,9 @@ Models (schemata)
 -----------------
 
 Pyrant itself does not provide means for defining models, but our related project
-`Docu`_ allows to do that easily.
+`Doqu`_ allows to do that easily.
 
-  .. _Docu: http://pypi.python.org/pypi/docu/
+  .. _Doqu: http://pypi.python.org/pypi/doqu/
 
 Community
 ---------

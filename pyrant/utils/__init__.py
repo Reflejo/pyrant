@@ -97,7 +97,7 @@ def to_python(value, db_type, sep=None):
     values their true intimate names, whether to Python types they belong or to
     custom classes like datetime.date. May code bless you with a segfault.
 
-    .. _models: http://pypi.python.org/pypi/pymodels
+    .. _models: http://pypi.python.org/pypi/doqu
     """
     if db_type == DB_TABLE:
         # Split element by \x00 which is the column separator
