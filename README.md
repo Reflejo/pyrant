@@ -1,7 +1,7 @@
 # pyrant
 A Pythonic implementation of Tokyo Tyrant protocol
 
-### Note: This project is now mantained [here](https://bitbucket.org/neithere/pyrant/issues)
+### Note: This project is now maintained [here](https://bitbucket.org/neithere/pyrant/issues)
   
 
 Tokyo Cabinet is a fast and light-weight database library that manages a key-value store, and Tokyo Cabinet is a companion lightweight database server. The pyrant module provides a Pythonic interface, as well as a low-level interface, to the Tokyo Tyrant protocol, and allows for easy interfacing to a Tokyo Cabinet database from Python.
